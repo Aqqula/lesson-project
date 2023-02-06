@@ -1,0 +1,9 @@
+.slider-container{
+    display: flex;
+    justify-content: center;
+    max-height: 50vh;
+}
+/* .slider-container img{
+    width: 100%;
+    height: 100%;
+} */
